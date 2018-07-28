@@ -5,8 +5,8 @@
 def ggt_subtraktion(zahlA, zahlB):
     
     """
-    Berechnet von zwei übergegebenen Zahlen den grössten gemeinsamen Teiler.
-    Dazu wird immer die kleinere der beiden Zahlen von dergrössere Subtrahiert,
+    Berechnet von zwei Ã¼bergegebenen Zahlen den grÃ¶ssten gemeinsamen Teiler.
+    Dazu wird immer die kleinere der beiden Zahlen von dergrÃ¶ssere Subtrahiert,
     bis die beiden Zahlen gleich sind. Return GGT wenn input OK, sonst -1.
     """
 
@@ -26,7 +26,7 @@ def ggt_subtraktion(zahlA, zahlB):
 
 
 #
-# Testfälle
+# TestfÃ¤lle
 #
 a, b = 12, 9
 print "GGT von:", a, "und", b, "ist:", ggt_subtraktion(a, b)
