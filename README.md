@@ -2,4 +2,4 @@
 
 # Grösster gemeinsamer Teiler
 
-Python-Programme zum ggT
+Python-, Java- und C-Programme zum ggT
