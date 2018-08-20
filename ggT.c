@@ -37,9 +37,8 @@ int main (void) {
     }
 
     /* Ausgeben des Ergebnisses */
-    printf(" ---> ggt = %d\n",y);
+    printf(" --> ggt = %d\n",y);
     return(0);
 
 }
-
 
