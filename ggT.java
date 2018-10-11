@@ -10,7 +10,7 @@ Beispielprogramm in Java
 
 
 // importieren der util-Klasse, die den Scanner enthaelt
-import java.util.*;
+import java.util.Scanner;
 
 
 public class ggT {
@@ -19,15 +19,15 @@ public class ggT {
 
         /* Definitionen der benoetigten Variablen */    
         int x,y,h;
-        Scanner sc = new Scanner(System.in);
+        Scanner eingabe = new Scanner(System.in);
 
         /* Einlesen der 1. Zahl*/
         System.out.print("1. Zahl: ");
-        x = sc.nextInt();
+        x = eingabe.nextInt();
 
         /* Einlesen der 2. Zahl*/
         System.out.print("2. Zahl: ");
-        y = sc.nextInt();
+        y = eingabe.nextInt();
 
         /* Euklidscher Algorithmus zur Bestimmung des ggT */
         while (x > 0) {
@@ -41,10 +41,8 @@ public class ggT {
 
         /* Ausgeben des Ergebnisses */
         System.out.println(" ---> ggt = " + y);
-        sc.close();
+        eingabe.close();
 
     }
 
 }
-
-
