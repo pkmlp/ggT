@@ -41,6 +41,7 @@ public class ggT {
 
         /* Ausgeben des Ergebnisses */
         System.out.println(" ---> ggt = " + y);
+        sc.close();
 
     }
 
