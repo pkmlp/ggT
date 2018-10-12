@@ -8,7 +8,6 @@ Beispielprogramm in Java
 */
 
 
-
 // importieren der util-Klasse, die den Scanner enthaelt
 import java.util.Scanner;
 

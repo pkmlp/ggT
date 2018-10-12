@@ -8,7 +8,6 @@ Beispielprogramm in C
 */
 
 
-
 /* Importieren der stdio-Library, die die Funktionen printf() und scanf() enthaelt */
 #include <stdio.h>
 
@@ -41,4 +40,3 @@ int main (void) {
     return(0);
 
 }
-
