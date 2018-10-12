@@ -24,4 +24,4 @@ while x > 0:
     x = x - y
 
 # Ausgeben des Ergebnisses
-print(" ---> ggt = ", x+y)
+print(" ---> ggt = ", y)
