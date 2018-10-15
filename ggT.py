@@ -3,10 +3,10 @@
 
 Beispielprogramm in Python
 
-    Bestimmen des ggT von zwei eingegebenen Zahlen mit dem Euklidschen Algorithmus
+    Bestimmen des ggT von zwei eingegebenen 
+    Zahlen mit dem Euklidschen Algorithmus
 
 '''
-
 
 
 # Einlesen der 1. Zahl
@@ -24,6 +24,4 @@ while x > 0:
     x = x - y
 
 # Ausgeben des Ergebnisses 
-print(" ---> ggt = ",  x+y)
-
-
+print(" ---> ggt = ",  str(y))
