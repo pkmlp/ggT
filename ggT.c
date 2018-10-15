@@ -8,7 +8,6 @@ Beispielprogramm in C
 */
 
 
-
 /* Importieren der stdio-Library, die die Funktionen printf() und scanf() enthaelt */
 #include <stdio.h>
 
@@ -37,9 +36,7 @@ int main (void) {
     }
 
     /* Ausgeben des Ergebnisses */
-    printf(" ---> ggt = %d\n",y);
+    printf(" --> ggt = %d\n",y);
     return(0);
 
 }
-
-
