@@ -3,7 +3,8 @@
 
 Beispielprogramm in C
 
-    Bestimmen des ggT von zwei eingegebenen Zahlen mit dem Euklidschen Algorithmus
+    Bestimmen des ggT von zwei eingegebenen 
+    Zahlen mit dem Euklidschen Algorithmus
 
 */
 

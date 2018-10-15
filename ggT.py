@@ -3,7 +3,7 @@
 
 Beispielprogramm in Python
 
-    Bestimmen des ggT von zwei eingegebenen 
+    Bestimmen des ggT von zwei eingegebenen
     Zahlen mit dem Euklidschen Algorithmus
 
 '''
@@ -23,5 +23,5 @@ while x > 0:
         y = h
     x = x - y
 
-# Ausgeben des Ergebnisses 
+# Ausgeben des Ergebnisses
 print(" ---> ggt = ",  str(y))
